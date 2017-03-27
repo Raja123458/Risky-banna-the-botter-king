@@ -21,7 +21,7 @@ ______________________________________________________________★OWNER │ Risky
 array(
 "•------» xXx—Rajputana Bot Team—xXx 
 ______________________________________________________________★OWNER │ Risky Banna | <3 Tru3-fuck3r.tk <3
-│★________________________________________________________________",,
+│★________________________________________________________________",
 )),
 
 array(
@@ -197,7 +197,7 @@ $bulan[gmdate('n',time()+60*60
 $thn = gmdate('Y',time()+60*60*7);
 $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
-return '💙 '.$jam.' Close kro  '.$name.'💙 '.$hr;
+return '🔥 '.$jam.'Clos3 Kro Jani 🔥 •»» '.$name.'🔥  '.$hr;
 }
 
 function getPower($nm,$tm,$tk){
@@ -232,7 +232,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='💙 Bot site 💙 Tru3-fuck3r.tk 💙';
+$site='💚 Bot site 💚 Tru3-fuck3r.tk 💚';
 $true=$ops.'
  '.$ips.'
 🏡 '.$site;
