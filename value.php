@@ -232,10 +232,10 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' '.$nm;
 $ops=getJam($nm);
-$site='💚 Bot site 💚 Tru3-fuck3r.tk 💚';
+$site='💏 Bot site 💏 Tru3-fuck3r.tk 💏';
 $true=$ops.'
  '.$ips.'
-🏡 '.$site;
+💏 '.$site;
 
 return $true;
 }
